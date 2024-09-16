@@ -180,6 +180,10 @@ span{
     margin: 2em;
 }
 
+.contact-form{
+    background-color: black;
+}
+
 .contact-form h2{
     text-align: center;
     margin-top: 3em;
